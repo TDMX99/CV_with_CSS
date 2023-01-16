@@ -1,0 +1,51 @@
+/*body*/
+
+body {
+    background-color: #DFF6FF;
+}
+
+/*images*/
+img {
+    height: 200px;
+}
+
+/*horizontal rules*/
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #1A374D;
+    border-width: 5px;
+    width: 10%;
+}
+
+/*headings and paragraphs*/
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+h1 {
+    color: #1A374D;
+}
+
+h3 {
+    color: #1A374D;
+}
+
+/*paragraphs*/
+p {
+    color: #406882;
+}
+
+/*tables*/
+th {
+    color: #1A374D;
+}
+
+td {
+    color: #406882;
+}
